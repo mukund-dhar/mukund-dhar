@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Mukund Dhar</h1>
-<h3 align="center">A Machine Learning and Data Science Enthusiast</h3>
+<h3 align="center">A Machine Learning and Data Science Enthusiast.</h3>
 
 - 📊 I have more than 7 years of professional experience in Software Engineering, Machine Learning, Analytics and Data Science.
 
-- 🌱 I’m currently working on Azure/AWS certifications.
+- 🌱 I’m currently working on Azure & AWS certifications.
   
 - ⚡ Ask me about the latest trends in **Computer Vision and Generative AI.**
 
