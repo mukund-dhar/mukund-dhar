@@ -9,8 +9,7 @@
 
 - You can find my resume [here](https://drive.google.com/file/d/1hex0f104_gaRuXK-o6aA3xHyn41xHts7/view?usp=drive_link) and my portfolio website [here](https://mukund-dhar.github.io/).
   
-- 💬 Fun fact **I speak Kashmiri :)**
-
+- 💬 Fun fact **I am fluent in English, Hindi and Kashmiri and learning German at the moment. :)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukund-dhar&label=Profile%20views&color=0e75b6&style=flat" alt="mukund-dhar" /> </p>
 
