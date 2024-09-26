@@ -13,7 +13,7 @@
 
 
 [![mukund-dhar's GitHub | Topics Over Time](https://stats.quira.sh/mukund-dhar/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=mukund-dhar)
-[![mukund-dhar's GitHub | Dependencies](https://stats.quine.sh/bap/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bap)
+[![mukund-dhar's GitHub | Dependencies](https://stats.quine.sh/mukund-dhar/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mukund-dhar)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukund-dhar&show_icons=true&locale=en&layout=compact" alt="mukund-dhar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukund-dhar&show_icons=true&theme=dark&locale=en" alt="mukund-dhar" /></p>
