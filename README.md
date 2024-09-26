@@ -2,14 +2,14 @@
 <h3 align="center">A Machine Learning and Data Science Enthusiast</h3>
 
 - 📊 I have more than 7 years of professional experience in Software Engineering, Machine Learning, Analytics and Data Science.
+
+- 🌱 I’m currently working on Azure/AWS certifications.
   
 - ⚡ Ask me about the latest trends in **Computer Vision and Generative AI.**
 
-- 🌱 I’m currently working on Azure/AWS certifications.
-
-- You can find my resume [here](https://drive.google.com/file/d/1hex0f104_gaRuXK-o6aA3xHyn41xHts7/view?usp=drive_link) and my portfolio website [here](https://mukund-dhar.github.io/).
+- 🤝 You can find my resume [here](https://drive.google.com/file/d/1hex0f104_gaRuXK-o6aA3xHyn41xHts7/view?usp=drive_link) and my portfolio website [here](https://mukund-dhar.github.io/).
   
-- 💬 Fun fact **I am fluent in English, Hindi and Kashmiri and learning German at the moment. :)**
+- 💬 Fun fact - **I am fluent in English, Hindi and Kashmiri and learning German at the moment. :)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukund-dhar&label=Profile%20views&color=0e75b6&style=flat" alt="mukund-dhar" /> </p>
 
