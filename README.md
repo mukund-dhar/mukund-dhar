@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mukund Dhar</h1>
+<h1 align="center">Hi, I'm Mukund Dhar</h1>
 <h3 align="center">A Machine Learning and Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukund-dhar&label=Profile%20views&color=0e75b6&style=flat" alt="mukund-dhar" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1hex0f104_gaRuXK-o6aA3xHyn41xHts7/view?usp=drive_link](https://drive.google.com/file/d/1hex0f104_gaRuXK-o6aA3xHyn41xHts7/view?usp=drive_link)
-- 📫 How to reach me **mukund.dhar1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
