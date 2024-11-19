@@ -7,7 +7,7 @@
   
 - ⚡ Ask me about the latest trends in **Computer Vision and Generative AI.**
 
-- 🤝 You can find my resume [here](https://drive.google.com/file/d/1hex0f104_gaRuXK-o6aA3xHyn41xHts7/view?usp=drive_link) and my portfolio website [here](https://mukund-dhar.github.io/).
+- 🤝 You can find my resume [here](https://drive.google.com/file/d/18yQaBn73upVX4DQzyJmfrRDxWaKtvI8V/view?usp=sharing) and my portfolio website [here](https://mukund-dhar.github.io/).
   
 - 💬 Fun fact - I am fluent in English, Hindi, and Kashmiri along with learning German at the moment. :)
 
