@@ -7,7 +7,7 @@
   
 - ⚡ Ask me about the latest trends in **Computer Vision and Generative AI.**
 
-- 🤝 You can find my resume [here](https://drive.google.com/file/d/18yQaBn73upVX4DQzyJmfrRDxWaKtvI8V/view?usp=sharing).
+- 🤝 You can find my resume [here](https://drive.google.com/file/d/1R5yiOThUL3p5gwXXkkrzMXnMPG-OIHPp/view?usp=drive_link).
   
 - 💬 Fun fact - I am fluent in English, Hindi, and Kashmiri along with learning German at the moment. :)
 
