@@ -7,9 +7,9 @@
   
 - ⚡ Ask me about the latest trends in **Computer Vision and Generative AI.**
 
-- 🤝 You can find my resume [here](https://drive.google.com/file/d/1R5yiOThUL3p5gwXXkkrzMXnMPG-OIHPp/view?usp=drive_link).
+- 🤝 You can find my resume [here](https://drive.google.com/file/d/1oyrBTOxUOr0Ua-J79Bbh27AkHGtiaCuW/view?usp=sharing).
   
-- 💬 Fun fact - I am fluent in English, Hindi, and Kashmiri along with learning German at the moment. :)
+- 💬 Fun fact - I am fluent in English, Hindi, and Kashmiri, along with learning German at the moment. :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukund-dhar&label=Profile%20views&color=0e75b6&style=flat" alt="mukund-dhar" /> </p>
 
